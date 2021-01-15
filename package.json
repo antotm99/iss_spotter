@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "eslint": "^7.17.0"
+    "eslint": "^7.17.0",
+    "request-promise-native": "^1.0.9"
   }
 }
